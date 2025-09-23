@@ -141,7 +141,7 @@ git diff HEAD1 HEAD2 filename 版本中指定文件的比较
 
 常用于并行开发、功能隔离和协作。
 
-![image-20250703224524883](E:\工作\03中心课\git提交规范.assets\image-20250703224524883.png)
+![image-20250703224524883](git提交规范.assets/image-20250703224524883.png)
 
 ### 3.1 创建分区
 
@@ -233,17 +233,17 @@ git clone 远程地址
 
 ## 5 pycharm使用git
 
-![image-20250704131254113](git提交规范.assets\image-20250704131254113.png)
+![image-20250704131254113](git提交规范.assets/image-20250704131254113.png)
 
 
 
-![image-20250704131331764](git提交规范.assets\image-20250704131331764.png)
+![image-20250704131331764](git提交规范.assets/image-20250704131331764.png)
 
 拉取项目
 
-![image-20250704131356011](git提交规范.assets\image-20250704131356011.png)
+![image-20250704131356011](git提交规范.assets/image-20250704131356011.png)
 
-![image-20250704131724768](git提交规范.assets\image-20250704131724768.png)
+![image-20250704131724768](git提交规范.assets/image-20250704131724768.png)
 
 
 
