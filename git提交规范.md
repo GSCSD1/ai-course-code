@@ -275,4 +275,5 @@ git clone 远程地址
 
 ## 5 项目提交规范
 参考链接：https://gitee.com/gscsd1234/QT_Shopping
-readme.md: 项目演示截图  项目功能 程序架构  运行方法  依赖项
+
+readme.md: 项目演示截图  项目功能 程序架构  运行方法  
