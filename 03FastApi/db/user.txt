@@ -1,0 +1,4 @@
+{"id":1,"username":"gscsd","email":"33122@qq.com","password":"321321","is_admin":0}
+{"id":2,"username":"gscsd2","email":"33122@qq.com","password":"321321","is_admin":0}
+{"id":3,"username":"gscsd3","email":"33122@qq.com","password":"321321","is_admin":1}
+{"id":4,"username":"gscsd4","email":"33122@qq.com","password":"321321","is_admin":1}

@@ -1,0 +1,298 @@
+2025-08-01 15:05:58,376 - INFO - 启动应用程序
+2025-08-01 15:05:58,441 - DEBUG - 初始化 VideoPlayer
+2025-08-01 15:05:58,442 - DEBUG - 初始化 UI
+2025-08-01 15:05:58,647 - DEBUG - 初始化 VideoWidget
+2025-08-01 15:05:59,112 - DEBUG - 设置音量: 70
+2025-08-01 15:05:59,204 - DEBUG - 加载默认接口
+2025-08-01 15:05:59,205 - DEBUG - 清空所有频道
+2025-08-01 15:05:59,205 - DEBUG - 获取接口数据: https://132130.v.nxog.top/api1.php?id=3
+2025-08-01 15:05:59,205 - DEBUG - 初始化 ApiFetcher，URL: https://132130.v.nxog.top/api1.php?id=3
+2025-08-01 15:05:59,205 - DEBUG - 获取接口数据: https://fmbox.cc/
+2025-08-01 15:05:59,205 - DEBUG - 初始化 ApiFetcher，URL: https://fmbox.cc/
+2025-08-01 15:13:39,899 - INFO - 启动应用程序
+2025-08-01 15:13:39,975 - DEBUG - 初始化 VideoPlayer
+2025-08-01 15:13:39,975 - DEBUG - 初始化 UI
+2025-08-01 15:13:40,267 - DEBUG - 初始化 VideoWidget (Qt原生)
+2025-08-01 15:13:40,741 - DEBUG - 设置音量: 70
+2025-08-01 15:13:40,854 - DEBUG - 加载默认接口
+2025-08-01 15:13:40,854 - DEBUG - 清空所有频道
+2025-08-01 15:13:40,854 - DEBUG - 获取接口数据: https://fmbox.cc/
+2025-08-01 15:13:40,854 - DEBUG - 初始化 ApiFetcher，URL: https://fmbox.cc/
+2025-08-01 15:13:40,854 - DEBUG - 获取接口数据: https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json
+2025-08-01 15:13:40,854 - DEBUG - 初始化 ApiFetcher，URL: https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json
+2025-08-01 15:13:40,855 - DEBUG - 获取接口数据: https://gitee.com/wxej/wxrj/raw/master/wx.json
+2025-08-01 15:13:40,855 - DEBUG - 初始化 ApiFetcher，URL: https://gitee.com/wxej/wxrj/raw/master/wx.json
+2025-08-01 15:13:40,855 - DEBUG - 获取接口数据: https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json
+2025-08-01 15:13:40,855 - DEBUG - 初始化 ApiFetcher，URL: https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json
+2025-08-01 15:13:40,856 - DEBUG - 获取接口数据: http://tv.laohu.cool/tvbox.json
+2025-08-01 15:13:40,856 - DEBUG - 初始化 ApiFetcher，URL: http://tv.laohu.cool/tvbox.json
+2025-08-01 15:14:33,158 - INFO - 启动应用程序
+2025-08-01 15:14:33,236 - DEBUG - 初始化 VideoPlayer
+2025-08-01 15:14:33,236 - DEBUG - 初始化 UI
+2025-08-01 15:14:33,481 - DEBUG - 初始化 VideoWidget (Qt原生)
+2025-08-01 15:14:34,012 - DEBUG - 设置音量: 70
+2025-08-01 15:14:34,130 - DEBUG - 加载默认接口
+2025-08-01 15:14:34,130 - DEBUG - 清空所有频道
+2025-08-01 15:14:34,130 - DEBUG - 获取接口数据: https://fmbox.cc/
+2025-08-01 15:14:34,130 - DEBUG - 初始化 ApiFetcher，URL: https://fmbox.cc/
+2025-08-01 15:14:34,130 - DEBUG - 获取接口数据: https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json
+2025-08-01 15:14:34,130 - DEBUG - 初始化 ApiFetcher，URL: https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json
+2025-08-01 15:14:34,132 - DEBUG - 获取接口数据: https://gitee.com/wxej/wxrj/raw/master/wx.json
+2025-08-01 15:14:34,132 - DEBUG - 初始化 ApiFetcher，URL: https://gitee.com/wxej/wxrj/raw/master/wx.json
+2025-08-01 15:14:34,132 - DEBUG - 获取接口数据: https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json
+2025-08-01 15:14:34,132 - DEBUG - 初始化 ApiFetcher，URL: https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json
+2025-08-01 15:14:34,132 - DEBUG - 获取接口数据: http://tv.laohu.cool/tvbox.json
+2025-08-01 15:14:34,132 - DEBUG - 初始化 ApiFetcher，URL: http://tv.laohu.cool/tvbox.json
+2025-08-01 15:28:52,275 - INFO - ===== 程序启动 =====
+2025-08-01 15:28:52,275 - INFO - Qt版本: 5.15.2
+2025-08-01 15:28:52,275 - INFO - PyQt版本: 5.15.11
+2025-08-01 15:28:52,289 - INFO - 设置SimHei字体成功
+2025-08-01 15:28:52,289 - INFO - 初始化应用和字体完成
+2025-08-01 15:28:52,289 - DEBUG - 初始化 VideoPlayer
+2025-08-01 15:28:52,289 - DEBUG - 初始化 UI
+2025-08-01 15:28:52,502 - DEBUG - 初始化 VideoWidget (Qt原生)
+2025-08-01 15:28:52,987 - DEBUG - 设置音量: 70
+2025-08-01 15:28:53,118 - INFO - 主窗口初始化完成，进入事件循环
+2025-08-01 15:28:53,619 - DEBUG - 开始加载接口（分批）
+2025-08-01 15:28:53,619 - DEBUG - 清空所有频道
+2025-08-01 15:28:53,619 - DEBUG - 获取接口数据: https://fmbox.cc/
+2025-08-01 15:28:53,620 - DEBUG - 初始化 ApiFetcher，URL: https://fmbox.cc/
+2025-08-01 15:28:53,622 - INFO - 开始获取接口数据: https://fmbox.cc/
+2025-08-01 15:28:53,622 - DEBUG - 更新进度: 正在获取: https://fmbox.cc/
+2025-08-01 15:28:53,627 - DEBUG - Starting new HTTPS connection (1): fmbox.cc:443
+2025-08-01 15:28:54,119 - DEBUG - 获取接口数据: https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json
+2025-08-01 15:28:54,119 - DEBUG - 初始化 ApiFetcher，URL: https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json
+2025-08-01 15:28:54,119 - INFO - 开始获取接口数据: https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json
+2025-08-01 15:28:54,119 - DEBUG - 更新进度: 正在获取: https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json
+2025-08-01 15:28:54,120 - DEBUG - Starting new HTTPS connection (1): github.moeyy.xyz:443
+2025-08-01 15:28:54,619 - DEBUG - 获取接口数据: https://gitee.com/wxej/wxrj/raw/master/wx.json
+2025-08-01 15:28:54,619 - DEBUG - 初始化 ApiFetcher，URL: https://gitee.com/wxej/wxrj/raw/master/wx.json
+2025-08-01 15:28:54,619 - INFO - 开始获取接口数据: https://gitee.com/wxej/wxrj/raw/master/wx.json
+2025-08-01 15:28:54,620 - DEBUG - 更新进度: 正在获取: https://gitee.com/wxej/wxrj/raw/master/wx.json
+2025-08-01 15:28:54,620 - DEBUG - Starting new HTTPS connection (1): gitee.com:443
+2025-08-01 15:28:54,959 - DEBUG - https://gitee.com:443 "GET /wxej/wxrj/raw/master/wx.json HTTP/1.1" 200 456
+2025-08-01 15:28:54,960 - DEBUG - 成功解析JSON数据: https://gitee.com/wxej/wxrj/raw/master/wx.json
+2025-08-01 15:28:54,960 - DEBUG - 处理接口数据
+2025-08-01 15:28:55,120 - DEBUG - 获取接口数据: https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json
+2025-08-01 15:28:55,120 - DEBUG - 初始化 ApiFetcher，URL: https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json
+2025-08-01 15:28:55,121 - INFO - 开始获取接口数据: https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json
+2025-08-01 15:28:55,122 - DEBUG - 更新进度: 正在获取: https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json
+2025-08-01 15:28:55,122 - DEBUG - Starting new HTTPS connection (1): ghproxy.net:443
+2025-08-01 15:28:55,615 - DEBUG - 获取接口数据: http://tv.laohu.cool/tvbox.json
+2025-08-01 15:28:55,615 - DEBUG - 初始化 ApiFetcher，URL: http://tv.laohu.cool/tvbox.json
+2025-08-01 15:28:55,615 - INFO - 开始获取接口数据: http://tv.laohu.cool/tvbox.json
+2025-08-01 15:28:55,617 - DEBUG - 更新进度: 正在获取: http://tv.laohu.cool/tvbox.json
+2025-08-01 15:28:55,617 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:7897
+2025-08-01 15:28:55,759 - DEBUG - http://127.0.0.1:7897 "GET http://tv.laohu.cool/tvbox.json HTTP/1.1" 200 None
+2025-08-01 15:28:55,760 - DEBUG - 成功解析JSON数据: http://tv.laohu.cool/tvbox.json
+2025-08-01 15:28:55,760 - DEBUG - 处理接口数据
+2025-08-01 15:29:14,626 - DEBUG - 切换播放/暂停，当前 URL: 
+2025-08-01 15:29:17,026 - DEBUG - 刷新所有接口
+2025-08-01 15:29:19,387 - DEBUG - 开始加载接口（分批）
+2025-08-01 15:29:19,387 - DEBUG - 清空所有频道
+2025-08-01 15:29:19,421 - DEBUG - 获取接口数据: https://fmbox.cc/
+2025-08-01 15:29:19,421 - DEBUG - 初始化 ApiFetcher，URL: https://fmbox.cc/
+2025-08-01 15:29:19,422 - INFO - 开始获取接口数据: https://fmbox.cc/
+2025-08-01 15:29:19,423 - DEBUG - Starting new HTTPS connection (1): fmbox.cc:443
+2025-08-01 15:29:19,436 - DEBUG - 更新进度: 正在获取: https://fmbox.cc/
+2025-08-01 15:29:19,888 - DEBUG - 获取接口数据: https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json
+2025-08-01 15:29:19,888 - DEBUG - 初始化 ApiFetcher，URL: https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json
+2025-08-01 15:29:19,889 - INFO - 开始获取接口数据: https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json
+2025-08-01 15:29:19,889 - DEBUG - 更新进度: 正在获取: https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json
+2025-08-01 15:29:19,890 - DEBUG - Starting new HTTPS connection (1): github.moeyy.xyz:443
+2025-08-01 15:29:20,387 - DEBUG - 获取接口数据: https://gitee.com/wxej/wxrj/raw/master/wx.json
+2025-08-01 15:29:20,387 - DEBUG - 初始化 ApiFetcher，URL: https://gitee.com/wxej/wxrj/raw/master/wx.json
+2025-08-01 15:29:20,389 - INFO - 开始获取接口数据: https://gitee.com/wxej/wxrj/raw/master/wx.json
+2025-08-01 15:29:20,389 - DEBUG - 更新进度: 正在获取: https://gitee.com/wxej/wxrj/raw/master/wx.json
+2025-08-01 15:29:20,390 - DEBUG - Starting new HTTPS connection (1): gitee.com:443
+2025-08-01 15:29:20,610 - DEBUG - https://gitee.com:443 "GET /wxej/wxrj/raw/master/wx.json HTTP/1.1" 200 456
+2025-08-01 15:29:20,610 - DEBUG - 成功解析JSON数据: https://gitee.com/wxej/wxrj/raw/master/wx.json
+2025-08-01 15:29:20,610 - DEBUG - 处理接口数据
+2025-08-01 15:29:20,887 - DEBUG - 获取接口数据: https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json
+2025-08-01 15:29:20,887 - DEBUG - 初始化 ApiFetcher，URL: https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json
+2025-08-01 15:29:20,887 - INFO - 开始获取接口数据: https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json
+2025-08-01 15:29:20,887 - DEBUG - 更新进度: 正在获取: https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json
+2025-08-01 15:29:20,889 - DEBUG - Starting new HTTPS connection (1): ghproxy.net:443
+2025-08-01 15:29:21,392 - DEBUG - 获取接口数据: http://tv.laohu.cool/tvbox.json
+2025-08-01 15:29:21,392 - DEBUG - 初始化 ApiFetcher，URL: http://tv.laohu.cool/tvbox.json
+2025-08-01 15:29:21,394 - INFO - 开始获取接口数据: http://tv.laohu.cool/tvbox.json
+2025-08-01 15:29:21,395 - DEBUG - 更新进度: 正在获取: http://tv.laohu.cool/tvbox.json
+2025-08-01 15:29:21,395 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:7897
+2025-08-01 15:29:21,450 - DEBUG - http://127.0.0.1:7897 "GET http://tv.laohu.cool/tvbox.json HTTP/1.1" 200 None
+2025-08-01 15:29:21,451 - DEBUG - 成功解析JSON数据: http://tv.laohu.cool/tvbox.json
+2025-08-01 15:29:21,451 - DEBUG - 处理接口数据
+2025-08-01 15:29:32,820 - DEBUG - 关闭窗口，停止播放
+2025-08-01 15:29:32,820 - DEBUG - 停止播放
+2025-08-01 15:29:55,328 - INFO - ===== 程序启动 =====
+2025-08-01 15:29:55,329 - INFO - Qt版本: 5.15.2
+2025-08-01 15:29:55,329 - INFO - PyQt版本: 5.15.11
+2025-08-01 15:29:55,338 - INFO - 设置SimHei字体成功
+2025-08-01 15:29:55,338 - INFO - 初始化应用和字体完成
+2025-08-01 15:29:55,338 - DEBUG - 初始化 VideoPlayer
+2025-08-01 15:29:55,338 - DEBUG - 初始化 UI
+2025-08-01 15:29:55,545 - DEBUG - 初始化 VideoWidget (Qt原生)
+2025-08-01 15:29:56,049 - DEBUG - 设置音量: 70
+2025-08-01 15:29:56,279 - INFO - 主窗口初始化完成，进入事件循环
+2025-08-01 15:29:56,781 - DEBUG - 开始加载接口（分批）
+2025-08-01 15:29:56,781 - DEBUG - 清空所有频道
+2025-08-01 15:29:56,782 - DEBUG - 获取接口数据: https://fmbox.cc/
+2025-08-01 15:29:56,782 - DEBUG - 初始化 ApiFetcher，URL: https://fmbox.cc/
+2025-08-01 15:29:56,783 - INFO - 开始获取接口数据: https://fmbox.cc/
+2025-08-01 15:29:56,783 - DEBUG - 更新进度: 正在获取: https://fmbox.cc/
+2025-08-01 15:29:56,786 - DEBUG - Starting new HTTPS connection (1): fmbox.cc:443
+2025-08-01 15:29:57,283 - DEBUG - 获取接口数据: https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json
+2025-08-01 15:29:57,283 - DEBUG - 初始化 ApiFetcher，URL: https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json
+2025-08-01 15:29:57,284 - INFO - 开始获取接口数据: https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json
+2025-08-01 15:29:57,284 - DEBUG - 更新进度: 正在获取: https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json
+2025-08-01 15:29:57,285 - DEBUG - Starting new HTTPS connection (1): github.moeyy.xyz:443
+2025-08-01 15:29:57,783 - DEBUG - 获取接口数据: https://gitee.com/wxej/wxrj/raw/master/wx.json
+2025-08-01 15:29:57,783 - DEBUG - 初始化 ApiFetcher，URL: https://gitee.com/wxej/wxrj/raw/master/wx.json
+2025-08-01 15:29:57,784 - INFO - 开始获取接口数据: https://gitee.com/wxej/wxrj/raw/master/wx.json
+2025-08-01 15:29:57,784 - DEBUG - 更新进度: 正在获取: https://gitee.com/wxej/wxrj/raw/master/wx.json
+2025-08-01 15:29:57,785 - DEBUG - Starting new HTTPS connection (1): gitee.com:443
+2025-08-01 15:29:58,005 - DEBUG - https://gitee.com:443 "GET /wxej/wxrj/raw/master/wx.json HTTP/1.1" 200 456
+2025-08-01 15:29:58,005 - DEBUG - 成功解析JSON数据: https://gitee.com/wxej/wxrj/raw/master/wx.json
+2025-08-01 15:29:58,007 - DEBUG - 处理接口数据
+2025-08-01 15:29:58,283 - DEBUG - 获取接口数据: https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json
+2025-08-01 15:29:58,283 - DEBUG - 初始化 ApiFetcher，URL: https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json
+2025-08-01 15:29:58,284 - INFO - 开始获取接口数据: https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json
+2025-08-01 15:29:58,284 - DEBUG - 更新进度: 正在获取: https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json
+2025-08-01 15:29:58,285 - DEBUG - Starting new HTTPS connection (1): ghproxy.net:443
+2025-08-01 15:29:58,781 - DEBUG - 获取接口数据: http://tv.laohu.cool/tvbox.json
+2025-08-01 15:29:58,781 - DEBUG - 初始化 ApiFetcher，URL: http://tv.laohu.cool/tvbox.json
+2025-08-01 15:29:58,782 - INFO - 开始获取接口数据: http://tv.laohu.cool/tvbox.json
+2025-08-01 15:29:58,782 - DEBUG - 更新进度: 正在获取: http://tv.laohu.cool/tvbox.json
+2025-08-01 15:29:58,783 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:7897
+2025-08-01 15:29:58,825 - DEBUG - http://127.0.0.1:7897 "GET http://tv.laohu.cool/tvbox.json HTTP/1.1" 200 None
+2025-08-01 15:29:58,825 - DEBUG - 成功解析JSON数据: http://tv.laohu.cool/tvbox.json
+2025-08-01 15:29:58,827 - DEBUG - 处理接口数据
+2025-08-01 15:30:48,960 - DEBUG - 设置音量: 60
+2025-08-01 15:30:49,463 - DEBUG - 设置音量: 50
+2025-08-01 15:30:50,115 - DEBUG - 切换静音状态: 静音
+2025-08-01 15:30:50,804 - DEBUG - 切换静音状态: 取消静音
+2025-08-01 15:30:51,250 - DEBUG - 停止播放
+2025-08-01 15:30:51,250 - DEBUG - 停止播放
+2025-08-01 15:30:51,732 - DEBUG - 切换播放/暂停，当前 URL: 
+2025-08-01 15:30:52,107 - DEBUG - 停止播放
+2025-08-01 15:30:52,107 - DEBUG - 停止播放
+2025-08-01 15:30:52,709 - DEBUG - 切换播放/暂停，当前 URL: 
+2025-08-01 15:32:12,161 - DEBUG - 关闭窗口，停止播放
+2025-08-01 15:32:12,161 - DEBUG - 停止播放
+2025-08-01 15:32:26,175 - INFO - ===== 程序启动 =====
+2025-08-01 15:32:26,176 - INFO - Qt版本: 5.15.2
+2025-08-01 15:32:26,176 - INFO - PyQt版本: 5.15.11
+2025-08-01 15:32:26,260 - INFO - 设置SimHei字体成功
+2025-08-01 15:32:26,260 - INFO - 初始化应用和字体完成
+2025-08-01 15:32:26,263 - DEBUG - 初始化 VideoPlayer
+2025-08-01 15:32:26,263 - DEBUG - 初始化 UI
+2025-08-01 15:32:27,467 - DEBUG - 初始化 VideoWidget (Qt原生)
+2025-08-01 15:32:36,779 - DEBUG - 设置音量: 70
+2025-08-01 15:32:52,411 - INFO - 主窗口初始化完成，进入事件循环
+2025-08-01 15:33:02,056 - DEBUG - 开始加载接口（分批）
+2025-08-01 15:33:02,056 - DEBUG - 清空所有频道
+2025-08-01 15:33:02,102 - DEBUG - 获取接口数据: https://fmbox.cc/
+2025-08-01 15:33:02,102 - DEBUG - 初始化 ApiFetcher，URL: https://fmbox.cc/
+2025-08-01 15:33:02,102 - INFO - 开始获取接口数据: https://fmbox.cc/
+2025-08-01 15:33:02,106 - DEBUG - Starting new HTTPS connection (1): fmbox.cc:443
+2025-08-01 15:33:02,121 - DEBUG - 更新进度: 正在获取: https://fmbox.cc/
+2025-08-01 15:33:03,857 - DEBUG - https://fmbox.cc:443 "GET / HTTP/1.1" 200 None
+2025-08-01 15:33:03,858 - ERROR - JSON解析失败: Expecting value: line 1 column 1 (char 0)，URL: https://fmbox.cc/
+2025-08-01 15:33:04,225 - DEBUG - 获取接口数据: http://tv.laohu.cool/tvbox.json
+2025-08-01 15:33:04,225 - DEBUG - 初始化 ApiFetcher，URL: http://tv.laohu.cool/tvbox.json
+2025-08-01 15:33:04,225 - INFO - 开始获取接口数据: http://tv.laohu.cool/tvbox.json
+2025-08-01 15:33:04,226 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:7897
+2025-08-01 15:33:04,282 - DEBUG - http://127.0.0.1:7897 "GET http://tv.laohu.cool/tvbox.json HTTP/1.1" 200 None
+2025-08-01 15:33:04,283 - DEBUG - 成功解析JSON数据: http://tv.laohu.cool/tvbox.json
+2025-08-01 15:33:05,675 - DEBUG - 获取接口数据: https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json
+2025-08-01 15:33:05,675 - DEBUG - 初始化 ApiFetcher，URL: https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json
+2025-08-01 15:33:05,675 - DEBUG - 获取接口数据: https://gitee.com/wxej/wxrj/raw/master/wx.json
+2025-08-01 15:33:05,675 - DEBUG - 初始化 ApiFetcher，URL: https://gitee.com/wxej/wxrj/raw/master/wx.json
+2025-08-01 15:33:05,676 - DEBUG - 获取接口数据: https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json
+2025-08-01 15:33:05,676 - DEBUG - 初始化 ApiFetcher，URL: https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json
+2025-08-01 15:33:05,676 - ERROR - 接口错误: JSON格式错误: Expecting value: line 1 column 1 (char 0)
+2025-08-01 15:33:10,366 - INFO - ===== 程序启动 =====
+2025-08-01 15:33:10,366 - INFO - Qt版本: 5.15.2
+2025-08-01 15:33:10,366 - INFO - PyQt版本: 5.15.11
+2025-08-01 15:33:12,111 - INFO - 设置SimHei字体成功
+2025-08-01 15:33:12,113 - INFO - 初始化应用和字体完成
+2025-08-01 15:33:12,152 - DEBUG - 初始化 VideoPlayer
+2025-08-01 15:33:12,154 - DEBUG - 初始化 UI
+2025-08-01 15:33:13,769 - DEBUG - 初始化 VideoWidget (Qt原生)
+2025-08-01 15:33:19,701 - DEBUG - 设置音量: 70
+2025-08-01 15:33:21,989 - INFO - 主窗口初始化完成，进入事件循环
+2025-08-01 15:33:22,967 - DEBUG - 开始加载接口（分批）
+2025-08-01 15:33:22,967 - DEBUG - 清空所有频道
+2025-08-01 15:33:22,996 - DEBUG - 获取接口数据: https://fmbox.cc/
+2025-08-01 15:33:22,996 - DEBUG - 初始化 ApiFetcher，URL: https://fmbox.cc/
+2025-08-01 15:33:22,998 - INFO - 开始获取接口数据: https://fmbox.cc/
+2025-08-01 15:33:23,000 - DEBUG - Starting new HTTPS connection (1): fmbox.cc:443
+2025-08-01 15:33:23,001 - DEBUG - 更新进度: 正在获取: https://fmbox.cc/
+2025-08-01 15:33:23,468 - DEBUG - 获取接口数据: https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json
+2025-08-01 15:33:23,468 - DEBUG - 初始化 ApiFetcher，URL: https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json
+2025-08-01 15:33:23,471 - INFO - 开始获取接口数据: https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json
+2025-08-01 15:33:23,473 - DEBUG - Starting new HTTPS connection (1): github.moeyy.xyz:443
+2025-08-01 15:33:23,473 - DEBUG - 更新进度: 正在获取: https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json
+2025-08-01 15:33:23,971 - DEBUG - 获取接口数据: https://gitee.com/wxej/wxrj/raw/master/wx.json
+2025-08-01 15:33:23,971 - DEBUG - 初始化 ApiFetcher，URL: https://gitee.com/wxej/wxrj/raw/master/wx.json
+2025-08-01 15:33:23,971 - INFO - 开始获取接口数据: https://gitee.com/wxej/wxrj/raw/master/wx.json
+2025-08-01 15:33:23,973 - DEBUG - Starting new HTTPS connection (1): gitee.com:443
+2025-08-01 15:33:23,984 - DEBUG - 更新进度: 正在获取: https://gitee.com/wxej/wxrj/raw/master/wx.json
+2025-08-01 15:33:24,315 - DEBUG - https://gitee.com:443 "GET /wxej/wxrj/raw/master/wx.json HTTP/1.1" 200 456
+2025-08-01 15:33:24,315 - DEBUG - 成功解析JSON数据: https://gitee.com/wxej/wxrj/raw/master/wx.json
+2025-08-01 15:33:24,321 - DEBUG - 处理接口数据
+2025-08-01 15:33:24,469 - DEBUG - 获取接口数据: https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json
+2025-08-01 15:33:24,469 - DEBUG - 初始化 ApiFetcher，URL: https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json
+2025-08-01 15:33:24,471 - INFO - 开始获取接口数据: https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json
+2025-08-01 15:33:24,472 - DEBUG - Starting new HTTPS connection (1): ghproxy.net:443
+2025-08-01 15:33:24,477 - DEBUG - 更新进度: 正在获取: https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json
+2025-08-01 15:33:24,970 - DEBUG - 获取接口数据: http://tv.laohu.cool/tvbox.json
+2025-08-01 15:33:24,970 - DEBUG - 初始化 ApiFetcher，URL: http://tv.laohu.cool/tvbox.json
+2025-08-01 15:33:24,971 - INFO - 开始获取接口数据: http://tv.laohu.cool/tvbox.json
+2025-08-01 15:33:24,971 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:7897
+2025-08-01 15:33:24,971 - DEBUG - 更新进度: 正在获取: http://tv.laohu.cool/tvbox.json
+2025-08-01 15:33:25,732 - DEBUG - http://127.0.0.1:7897 "GET http://tv.laohu.cool/tvbox.json HTTP/1.1" 200 None
+2025-08-01 15:33:25,733 - DEBUG - 成功解析JSON数据: http://tv.laohu.cool/tvbox.json
+2025-08-01 15:33:25,733 - DEBUG - 处理接口数据
+2025-08-01 15:33:37,923 - INFO - ===== 程序启动 =====
+2025-08-01 15:33:37,924 - INFO - Qt版本: 5.15.2
+2025-08-01 15:33:37,924 - INFO - PyQt版本: 5.15.11
+2025-08-01 15:33:37,934 - INFO - 设置SimHei字体成功
+2025-08-01 15:33:37,934 - INFO - 初始化应用和字体完成
+2025-08-01 15:33:37,935 - DEBUG - 初始化 VideoPlayer
+2025-08-01 15:33:37,935 - DEBUG - 初始化 UI
+2025-08-01 15:33:38,143 - DEBUG - 初始化 VideoWidget (Qt原生)
+2025-08-01 15:33:38,565 - DEBUG - 设置音量: 70
+2025-08-01 15:33:38,789 - INFO - 主窗口初始化完成，进入事件循环
+2025-08-01 15:33:39,289 - DEBUG - 开始加载接口（分批）
+2025-08-01 15:33:39,289 - DEBUG - 清空所有频道
+2025-08-01 15:33:39,289 - DEBUG - 获取接口数据: https://fmbox.cc/
+2025-08-01 15:33:39,289 - DEBUG - 初始化 ApiFetcher，URL: https://fmbox.cc/
+2025-08-01 15:33:39,291 - INFO - 开始获取接口数据: https://fmbox.cc/
+2025-08-01 15:33:39,291 - DEBUG - 更新进度: 正在获取: https://fmbox.cc/
+2025-08-01 15:33:39,294 - DEBUG - Starting new HTTPS connection (1): fmbox.cc:443
+2025-08-01 15:33:39,790 - DEBUG - 获取接口数据: https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json
+2025-08-01 15:33:39,790 - DEBUG - 初始化 ApiFetcher，URL: https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json
+2025-08-01 15:33:39,790 - INFO - 开始获取接口数据: https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json
+2025-08-01 15:33:39,790 - DEBUG - 更新进度: 正在获取: https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json
+2025-08-01 15:33:39,792 - DEBUG - Starting new HTTPS connection (1): github.moeyy.xyz:443
+2025-08-01 15:33:40,289 - DEBUG - 获取接口数据: https://gitee.com/wxej/wxrj/raw/master/wx.json
+2025-08-01 15:33:40,289 - DEBUG - 初始化 ApiFetcher，URL: https://gitee.com/wxej/wxrj/raw/master/wx.json
+2025-08-01 15:33:40,289 - INFO - 开始获取接口数据: https://gitee.com/wxej/wxrj/raw/master/wx.json
+2025-08-01 15:33:40,290 - DEBUG - Starting new HTTPS connection (1): gitee.com:443
+2025-08-01 15:33:40,290 - DEBUG - 更新进度: 正在获取: https://gitee.com/wxej/wxrj/raw/master/wx.json
+2025-08-01 15:33:40,508 - DEBUG - https://gitee.com:443 "GET /wxej/wxrj/raw/master/wx.json HTTP/1.1" 200 456
+2025-08-01 15:33:40,508 - DEBUG - 成功解析JSON数据: https://gitee.com/wxej/wxrj/raw/master/wx.json
+2025-08-01 15:33:40,509 - DEBUG - 处理接口数据
+2025-08-01 15:33:40,790 - DEBUG - 获取接口数据: https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json
+2025-08-01 15:33:40,790 - DEBUG - 初始化 ApiFetcher，URL: https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json
+2025-08-01 15:33:40,792 - INFO - 开始获取接口数据: https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json
+2025-08-01 15:33:40,792 - DEBUG - 更新进度: 正在获取: https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json
+2025-08-01 15:33:40,793 - DEBUG - Starting new HTTPS connection (1): ghproxy.net:443
+2025-08-01 15:33:41,285 - DEBUG - 获取接口数据: http://tv.laohu.cool/tvbox.json
+2025-08-01 15:33:41,286 - DEBUG - 初始化 ApiFetcher，URL: http://tv.laohu.cool/tvbox.json
+2025-08-01 15:33:41,286 - INFO - 开始获取接口数据: http://tv.laohu.cool/tvbox.json
+2025-08-01 15:33:41,286 - DEBUG - 更新进度: 正在获取: http://tv.laohu.cool/tvbox.json
+2025-08-01 15:33:41,287 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:7897
+2025-08-01 15:33:41,356 - DEBUG - http://127.0.0.1:7897 "GET http://tv.laohu.cool/tvbox.json HTTP/1.1" 200 None
+2025-08-01 15:33:41,356 - DEBUG - 成功解析JSON数据: http://tv.laohu.cool/tvbox.json
+2025-08-01 15:33:41,356 - DEBUG - 处理接口数据

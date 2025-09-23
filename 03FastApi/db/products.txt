@@ -1,0 +1,4 @@
+{"id":1,"name":"iphone 15","description":"苹果最新款智能手机，128GB存储","price":6999.0,"quantity":50,"category_id":1}
+{"id":2,"name":"床上四件套","description":"纯棉床上用品套装","price":299,"quantity":200,"category_id":2}
+{"id":3,"name":"羽绒服","description":"羽绒服描述信息","price":500,"quantity":300,"category_id":0}
+{"id":4,"name":"T恤","description":"T恤描述信息","price":120,"quantity":200,"category_id":0}

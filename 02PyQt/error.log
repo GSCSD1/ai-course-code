@@ -1,0 +1,50 @@
+Traceback (most recent call last):
+  File "C:\Users\33122\Desktop\2507Code\02PyQt\main.py", line 82, in search_slot
+    self.button.setEnabled(False)
+    ^^^^^^^^^^^
+AttributeError: 'MainWindow' object has no attribute 'button'
+Traceback (most recent call last):
+  File "C:\Users\33122\Desktop\2507Code\02PyQt\main.py", line 32, in run
+    "name": self.searchInput.text()
+            ^^^^^^^^^^^^^^^^
+AttributeError: 'WorkerThread' object has no attribute 'searchInput'
+Traceback (most recent call last):
+  File "C:\Users\33122\Desktop\2507Code\02PyQt\main.py", line 106, in update_label
+    self.result_label.setText(f"歌曲名:{self.value['name']} 歌手:{self.value['artist']}")
+                                     ^^^^^^^^^^
+AttributeError: 'MainWindow' object has no attribute 'value'
+Traceback (most recent call last):
+  File "C:\Users\33122\Desktop\2507Code\02PyQt\main.py", line 107, in update_label
+    self.button.setEnabled(True)
+    ^^^^^^^^^^^
+AttributeError: 'MainWindow' object has no attribute 'button'
+Traceback (most recent call last):
+  File "C:\Users\33122\Desktop\2507Code\02PyQt\main.py", line 44, in run
+    self.update_signal.emit(self.data_dict)
+TypeError: WorkerThread.update_signal[dict].emit(): argument 1 has unexpected type 'NoneType'
+Traceback (most recent call last):
+  File "C:\Users\33122\Desktop\2507Code\02PyQt\main.py", line 44, in run
+    self.update_signal.emit(self.data_dict)
+TypeError: WorkerThread.update_signal[dict].emit(): argument 1 has unexpected type 'NoneType'
+Traceback (most recent call last):
+  File "C:\Users\33122\Desktop\2507Code\02PyQt\main.py", line 18, in <module>
+    class WorkerThread(QThread):
+  File "C:\Users\33122\Desktop\2507Code\02PyQt\main.py", line 20, in WorkerThread
+    update_signal = pyqtSignal(dict|None)
+                    ^^^^^^^^^^^^^^^^^^^^^
+TypeError: bytes or ASCII string expected not 'types.UnionType'
+Traceback (most recent call last):
+  File "C:\Users\33122\Desktop\2507Code\02PyQt\main.py", line 108, in update_label
+    self.button.setEnabled(True)
+    ^^^^^^^^^^^
+AttributeError: 'MainWindow' object has no attribute 'button'
+Traceback (most recent call last):
+  File "C:\Users\33122\Desktop\2507Code\02PyQt\24视频播放器.py", line 151, in on_error_occurred
+    error = self.player.errorString()
+            ^^^^^^^^^^^
+AttributeError: 'mainWidget' object has no attribute 'player'
+Traceback (most recent call last):
+  File "C:\Users\33122\Desktop\2507Code\02PyQt\24视频播放器.py", line 151, in on_error_occurred
+    error = self.QMediaPlayer.errorString()
+            ^^^^^^^^^^^^^^^^^
+AttributeError: 'mainWidget' object has no attribute 'QMediaPlayer'
