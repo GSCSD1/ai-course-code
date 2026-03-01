@@ -203,7 +203,7 @@ git branch -D 分支名  未合并的分支
 
 ## 4 创建远程仓库
 
-![image-20260301213039146](C:\Users\33122\Desktop\ai-course-code\git提交规范.assets\image-20260301213039146.png)
+![image-20260301213039146](./git提交规范.assets/image-20260301213039146.png)
 
 ### 4.1 推送操作
 
