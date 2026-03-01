@@ -48,6 +48,15 @@ git config --global user.email goodMorning@atguigu.com
 
 级别优先级：项目优先级优先于系统用户级别
 
+**查看配置的用户和邮箱**
+
+``` bash
+git config --global user.email
+git config --global user.name
+```
+
+
+
 ## 2 基本操作
 
 ### 2.1 状态查看
@@ -194,6 +203,8 @@ git branch -D 分支名  未合并的分支
 
 ## 4 创建远程仓库
 
+![image-20260301213039146](C:\Users\33122\Desktop\ai-course-code\git提交规范.assets\image-20260301213039146.png)
+
 ### 4.1 推送操作
 
 ```BASH
@@ -228,6 +239,10 @@ git pull origin 分支名 从远程仓库获取更新并与本地分支合并。
 ```bash
 git clone 远程地址
 ```
+
+-v 可指定要拉群的分支
+
+
 
 
 
