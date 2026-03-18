@@ -211,7 +211,7 @@ git branch -D 分支名  未合并的分支
 git remote -v    查看是否有远程库地址
 
 git remote add origin(远程库名  默认) https://github.com/GSCSD1/-.git  添加远程库地址
-git remote add origin 移除远程库地址
+git remote remove origin 移除远程库地址
 
 git push origin master   将代码推送给远程库
 
