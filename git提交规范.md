@@ -64,6 +64,13 @@ git config --global user.name
 ```bash
 git status  
 ```
+解决中文乱码问题
+git config --global core.quotepath false
+git config --global core.encoding utf-8
+git config --global i18n.commit.encoding utf-8
+git config --global i18n.logoutputencoding utf-8
+git config --global gui.encoding utf-8
+git config --global core.whitespace cr-at-eol
 
 ### 2.2 暂存区操作  (工作区 暂存区 本地库)
 
